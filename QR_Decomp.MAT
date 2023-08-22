@@ -4,7 +4,7 @@
 %            Holder transformation
 %
 %   Name  :   Scott Boshell
-%   Email :   scottboshell123@gmail.com
+%
 %
 
 function [Q, R] = qr_decomp(A)
